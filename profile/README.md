@@ -1,8 +1,8 @@
-# 🌍 TaoTech Solutions
+# 🌍 Taotech Solutions
 
 **Rewriting Africa’s tech story — one solution at a time.**
 
-Welcome to **TaoTech Solutions** — a remote-first African tech company building honest, scalable, and globally competitive solutions in:
+Welcome to **Taotech Solutions** — a remote-first African tech company building honest, scalable, and globally competitive solutions in:
 
 - 💻 **Software Development**
 - 🤖 **Artificial Intelligence Engineering**
